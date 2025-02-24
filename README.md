@@ -1,4 +1,4 @@
-#  📌 Aicte_Stego_Project :  Image Steganography using OpenCV  
+#  📌 Aicte_Stego_Project :  Secure Data Hiding In Images Using Steganography  
 
 
 ## 📝 Description
